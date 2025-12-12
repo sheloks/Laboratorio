@@ -3,14 +3,14 @@
     "",
     "\\src",
     "\\src\\components",
+    "\\src\\components\\contabilidad",
     "\\src\\components\\dashboard",
-    "\\src\\components\\ordenes",
-    "\\src\\composables",
-    "\\src\\composables\\clientes",
+    "\\src\\config",
+    "\\src\\lib",
     "\\src\\views",
-    "\\src\\views\\dashboard",
-    "\\src\\views\\ordenes"
+    "\\src\\views\\contabilidad",
+    "\\vscode-config"
   ],
-  "SelectedNode": "\\src\\views\\ordenes\\OrdenesView.vue",
+  "SelectedNode": "\\src\\components\\dashboard\\Dashboardorderslist.vue",
   "PreviewInSolutionExplorer": false
 }
