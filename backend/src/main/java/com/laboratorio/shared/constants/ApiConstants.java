@@ -1,0 +1,5 @@
+package com.laboratorio.shared.constants;
+
+public class ApiConstants {
+    public static final String API_VERSION = "/api/v1";
+}

@@ -1,0 +1,64 @@
+<template>
+  <div class="login-page">
+    <h1>🔬 DentalLab</h1>
+    <form @submit.prevent="login">
+      <input v-model="email" type="email" placeholder="Email" required>
+      <input v-model="password" type="password" placeholder="Contraseña" required>
+      <button type="submit">Entrar</button>
+    </form>
+  </div>
+</template>
+
+<script setup>
+import { ref } from 'vue'
+import { useRouter } from 'vue-router'
+import { useAuthStore } from '@/stores/auth'
+
+const router = useRouter()
+const authStore = useAuthStore()
+
+const email = ref('admin@dentallab.com')
+const password = ref('password')
+
+const login = async () => {
+  await authStore.login({ email: email.value, password: password.value })
+  router.push('/')
+}
+</script>
+
+<style scoped>
+.login-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  gap: 1rem;
+}
+
+.login-page h1 {
+  color: #2c3e50;
+}
+
+.login-page form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  width: 300px;
+}
+
+.login-page input {
+  padding: 0.75rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.login-page button {
+  padding: 0.75rem;
+  background: #3498db;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+</style>

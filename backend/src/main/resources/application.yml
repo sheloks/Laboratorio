@@ -1,0 +1,130 @@
+# =============================================
+# CONFIGURACIÓN PRINCIPAL DE LA APLICACIÓN
+# =============================================
+
+spring:
+  application:
+    name: dental-lab-management
+
+  # Configuración de base de datos MySQL
+  datasource:
+    url: jdbc:mysql://localhost:3306/dental_lab_db?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+    username: root
+    password: admin
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  # JPA / Hibernate - CONFIGURACIÓN CORREGIDA
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+        use_sql_comments: true
+
+  # Configuración Flyway corregida
+  flyway:
+    enabled: true
+    baseline-version: 0
+    validate-on-migrate: true
+    baseline-on-migrate: true
+    out-of-order: true
+    ignore-migration-patterns: '*:pending'
+    clean-on-validation-error: false
+
+  # Email Configuration
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: root
+    password: admin
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+            required: true
+
+  # Cache Configuration
+  cache:
+    type: redis
+  redis:
+    host: localhost
+    port: 6379
+    password: ""
+
+# Server Configuration
+server:
+  port: 8081
+  servlet:
+    context-path: /
+  error:
+    include-stacktrace: always
+
+# Logging
+logging:
+  level:
+    org.springframework.web: TRACE
+    com.laboratorio: DEBUG
+    org.hibernate.SQL: DEBUG
+    org.springframework.security: DEBUG
+# JWT Configuration
+app:
+  jwt:
+    secret: mySuperSecretKeyForDentalLabManagementSystem2024WithExtraSecurity
+    expiration-ms: 86400000
+
+  # CORS Configuration
+  cors:
+    allowed-origins: "http://localhost:3000,http://localhost:5173"
+    allowed-methods: "GET,POST,PUT,DELETE,OPTIONS"
+    allowed-headers: "*"
+    allow-credentials: true
+
+  # Configuración AFIP (Homologación)
+  afip:
+    wsaa-url: "https://wsaahomo.afip.gov.ar/ws/services/AA"
+    wsfe-url: "https://wswhomo.afip.gov.ar/wsfev1/service.asmx"
+    cuit: 20123456789
+    punto-venta: "0001"
+
+  # Mercado Pago (Sandbox)
+  mercadopago:
+    access-token: "TEST-123456789012345678901234567890-123456"
+    base-url: "https://api.mercadopago.com"
+
+  # Configuración de archivos
+  upload:
+    max-file-size: 10MB
+    allowed-extensions: ".stl,.obj,.3mf,.jpg,.png,.pdf"
+    directory: "./uploads"
+
+  # Configuración de negocio
+  business:
+    iva-percentage: 21.0
+    default-payment-days: 30
+    currency: "ARS"
+    timezone: "America/Argentina/Buenos_Aires"
+
+  # Configuración de notificaciones
+  notifications:
+    email:
+      enabled: true
+    whatsapp:
+      enabled: true
+    sms:
+      enabled: false
+
+  # WhatsApp Business API
+  whatsapp:
+    api-url: "https://graph.facebook.com/v17.0"
+    phone-number-id: 123456789012345
+    access-token: "tu-token-de-whatsapp"
+
+  # Seguridad adicional
+  security:
+    password-strength: 8
+    max-login-attempts: 5
+    account-lockout-duration: 1800

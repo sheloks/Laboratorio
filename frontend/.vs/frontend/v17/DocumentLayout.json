@@ -1,0 +1,1688 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\views\\ordenes\\OrdenesView.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\ordenes\\OrdenesView.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ordenes\\NewOrderModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ordenes\\NewOrderModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\clientes\\useClients.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\composables\\clientes\\useClients.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\services\\orderService.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\orderService.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\ordenes\\useOrders.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\composables\\ordenes\\useOrders.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\Dashboardorderslist.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\dashboard\\Dashboardorderslist.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\views\\dashboard\\Dashboard.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\dashboard\\Dashboard.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\views\\configuracion\\ConfiguracionView.vue||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\configuracion\\ConfiguracionView.vue||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\configuracion\\WhatsAppTab.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\configuracion\\WhatsAppTab.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\configuracion\\SeguridadTab.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\configuracion\\SeguridadTab.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\configuracion\\NotificacionesTab.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\configuracion\\NotificacionesTab.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\configuracion\\UsuariosTab.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\configuracion\\UsuariosTab.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\configuracion\\LaboratorioTab.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\configuracion\\LaboratorioTab.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\configuracion\\BackupTab.vue||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\configuracion\\BackupTab.vue||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\configuracion\\SuscripcionTab.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\configuracion\\SuscripcionTab.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ordenes\\EditOrderModal.vue||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ordenes\\EditOrderModal.vue||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\stock\\DeleteMaterialModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\stock\\DeleteMaterialModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ordenes\\DeleteModal.vue||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ordenes\\DeleteModal.vue||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\views\\clientes\\ClientesView.vue||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\clientes\\ClientesView.vue||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\clientes\\DeleteClientModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\clientes\\DeleteClientModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\services\\invoicePdfService.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\invoicePdfService.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\contabilidad\\InvoiceFormModal.vue||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\contabilidad\\InvoiceFormModal.vue||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\contabilidad\\NewInvoiceModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\contabilidad\\NewInvoiceModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\views\\contabilidad\\ContabilidadView.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\contabilidad\\ContabilidadView.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\contabilidad\\useInvoices.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\composables\\contabilidad\\useInvoices.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\stock\\ViewMaterialModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\stock\\ViewMaterialModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\views\\Stock\\StockView.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\Stock\\StockView.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\stock\\StockCard.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\stock\\StockCard.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\stock\\MaterialFormModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\stock\\MaterialFormModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vite.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tsconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ui\\button\\Button.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ui\\button\\Button.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\router\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\router\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\plugins\\lucide.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\plugins\\lucide.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\api\\http.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\api\\http.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\api\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\api\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\configuracion\\useWhatsApp.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\composables\\configuracion\\useWhatsApp.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\services\\clientService.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\clientService.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\services\\axios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\axios.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\clientes\\useClientHelpers.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\composables\\clientes\\useClientHelpers.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ordenes\\OrdenCard.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ordenes\\OrdenCard.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\services\\InvoiceService.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\InvoiceService.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\views\\envio\\EnvioView.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\views\\envio\\EnvioView.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ordenes\\OdontogramaModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ordenes\\OdontogramaModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\Envio\\EnvioFormModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Envio\\EnvioFormModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\envio\\useEnvio.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\composables\\envio\\useEnvio.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\services\\EnvioService.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\EnvioService.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\clientes\\ViewClientModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\clientes\\ViewClientModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\configuracion\\AfipTab.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\configuracion\\AfipTab.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\configuracion\\EmailTab.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\configuracion\\EmailTab.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\clientes\\ClientFormModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\clientes\\ClientFormModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\clientes\\ViewStaffModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\clientes\\ViewStaffModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\clientes\\StaffFormModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\clientes\\StaffFormModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\stock\\useStock.js||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\composables\\stock\\useStock.js||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ordenes\\QrModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ordenes\\QrModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ordenes\\EtiquetaModal.vue||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ordenes\\EtiquetaModal.vue||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\layout\\Nuevo archivo||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\layout\\Nuevo archivo||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\Dashboardrevenuechart.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\dashboard\\Dashboardrevenuechart.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\Dashboardpiechart.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\dashboard\\Dashboardpiechart.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\DashboardSystemStatus.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\dashboard\\DashboardSystemStatus.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\DashboardQuickActions.vue||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\dashboard\\DashboardQuickActions.vue||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\Nuevo archivo||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\dashboard\\Nuevo archivo||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\DashboardOrders.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\dashboard\\DashboardOrders.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\Envio\\EnvioViewModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Envio\\EnvioViewModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\Envio\\EnvioCard.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Envio\\EnvioCard.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\Envio\\EnvioFilters.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Envio\\EnvioFilters.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\Envio\\EnvioStats.vue||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\Envio\\EnvioStats.vue||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\envio\\useEnvioHelpers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\composables\\envio\\useEnvioHelpers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\DashboardStats.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\dashboard\\DashboardStats.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\DashboardHeader.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\dashboard\\DashboardHeader.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\DashboardSidebar.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\dashboard\\DashboardSidebar.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\services\\Stockservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\Stockservice.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\stock\\StockMovementModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\stock\\StockMovementModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\stock\\useStockHelpers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\composables\\stock\\useStockHelpers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\stock\\StockFilters.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\stock\\StockFilters.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\stock\\StockStats.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\stock\\StockStats.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\contabilidad\\InvoiceStats.vue||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\contabilidad\\InvoiceStats.vue||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\contabilidad\\InvoiceCharts.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\contabilidad\\InvoiceCharts.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\contabilidad\\InvoiceFilters.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\contabilidad\\InvoiceFilters.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\contabilidad\\InvoiceCard.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\contabilidad\\InvoiceCard.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\contabilidad\\ViewInvoiceModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\contabilidad\\ViewInvoiceModal.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\contabilidad\\useInvoiceHelpers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\composables\\contabilidad\\useInvoiceHelpers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\ordenes\\useOrderHelpers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\composables\\ordenes\\useOrderHelpers.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\clientes\\ClientFilters.vue||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\clientes\\ClientFilters.vue||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\clientes\\ClientStats.vue||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\clientes\\ClientStats.vue||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\clientes\\ClientCard.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\clientes\\ClientCard.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ordenes\\OrderStats.vue||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ordenes\\OrderStats.vue||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ordenes\\OrderFilters.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\ordenes\\OrderFilters.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\services\\authService.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\services\\authService.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\postcss.config.cjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:postcss.config.cjs||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\BackendConnectionTest.vue||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\components\\BackendConnectionTest.vue||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\App.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\App.vue||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\stores\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\stores\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\lib\\utils.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\lib\\utils.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\tsconfig.node.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tsconfig.node.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\stores\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\stores\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\stores\\ordenes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\stores\\ordenes.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\arbol_proyecto.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:arbol_proyecto.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\stores\\stores.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\stores\\stores.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewOrderModal.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ordenes\\NewOrderModal.vue",
+              "RelativeDocumentMoniker": "src\\components\\ordenes\\NewOrderModal.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ordenes\\NewOrderModal.vue",
+              "RelativeToolTip": "src\\components\\ordenes\\NewOrderModal.vue",
+              "ViewState": "AgIAAKICAAAAAAAAAAAIwMECAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-03T13:41:31.922Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "EmailTab.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\configuracion\\EmailTab.vue",
+              "RelativeDocumentMoniker": "src\\components\\configuracion\\EmailTab.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\configuracion\\EmailTab.vue",
+              "RelativeToolTip": "src\\components\\configuracion\\EmailTab.vue",
+              "ViewState": "AgIAAIoAAAAAAAAAAADwv7AAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-05T20:02:44.783Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdenesView.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\views\\ordenes\\OrdenesView.vue",
+              "RelativeDocumentMoniker": "src\\views\\ordenes\\OrdenesView.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\views\\ordenes\\OrdenesView.vue*",
+              "RelativeToolTip": "src\\views\\ordenes\\OrdenesView.vue*",
+              "ViewState": "AgIAACADAAAAAAAAAAAcwD0DAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-09T19:14:47.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "useOrders.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\ordenes\\useOrders.js",
+              "RelativeDocumentMoniker": "src\\composables\\ordenes\\useOrders.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\ordenes\\useOrders.js",
+              "RelativeToolTip": "src\\composables\\ordenes\\useOrders.js",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAuwKcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-03T13:36:42.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConfiguracionView.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\views\\configuracion\\ConfiguracionView.vue",
+              "RelativeDocumentMoniker": "src\\views\\configuracion\\ConfiguracionView.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\views\\configuracion\\ConfiguracionView.vue",
+              "RelativeToolTip": "src\\views\\configuracion\\ConfiguracionView.vue",
+              "ViewState": "AgIAAGoCAAAAAAAAAAAIwIkCAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-05T20:01:05.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WhatsAppTab.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\configuracion\\WhatsAppTab.vue",
+              "RelativeDocumentMoniker": "src\\components\\configuracion\\WhatsAppTab.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\configuracion\\WhatsAppTab.vue",
+              "RelativeToolTip": "src\\components\\configuracion\\WhatsAppTab.vue",
+              "ViewState": "AgIAACQBAAAAAAAAAAAIwO4BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-05T20:03:11.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\views\\dashboard\\Dashboard.vue",
+              "RelativeDocumentMoniker": "src\\views\\dashboard\\Dashboard.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\views\\dashboard\\Dashboard.vue",
+              "RelativeToolTip": "src\\views\\dashboard\\Dashboard.vue",
+              "ViewState": "AgIAAH4BAAAAAAAAAAAAwJ0BAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-11-26T16:55:04.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dashboardorderslist.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\Dashboardorderslist.vue",
+              "RelativeDocumentMoniker": "src\\components\\dashboard\\Dashboardorderslist.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\Dashboardorderslist.vue",
+              "RelativeToolTip": "src\\components\\dashboard\\Dashboardorderslist.vue",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAAAB4BAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-04T19:40:59.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "orderService.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\services\\orderService.js",
+              "RelativeDocumentMoniker": "src\\services\\orderService.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\services\\orderService.js",
+              "RelativeToolTip": "src\\services\\orderService.js",
+              "ViewState": "AgIAAMcAAAAAAAAAAAAswOUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-27T18:13:11.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "useClients.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\clientes\\useClients.js",
+              "RelativeDocumentMoniker": "src\\composables\\clientes\\useClients.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\clientes\\useClients.js",
+              "RelativeToolTip": "src\\composables\\clientes\\useClients.js",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAswH4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-03T16:36:54.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SeguridadTab.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\configuracion\\SeguridadTab.vue",
+              "RelativeDocumentMoniker": "src\\components\\configuracion\\SeguridadTab.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\configuracion\\SeguridadTab.vue",
+              "RelativeToolTip": "src\\components\\configuracion\\SeguridadTab.vue",
+              "ViewState": "AgIAANMBAAAAAAAAAAAAANYBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-11T17:06:03.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "NotificacionesTab.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\configuracion\\NotificacionesTab.vue",
+              "RelativeDocumentMoniker": "src\\components\\configuracion\\NotificacionesTab.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\configuracion\\NotificacionesTab.vue",
+              "RelativeToolTip": "src\\components\\configuracion\\NotificacionesTab.vue",
+              "ViewState": "AgIAAE8BAAAAAAAAAAAIwG4BAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-11T17:05:45.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UsuariosTab.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\configuracion\\UsuariosTab.vue",
+              "RelativeDocumentMoniker": "src\\components\\configuracion\\UsuariosTab.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\configuracion\\UsuariosTab.vue",
+              "RelativeToolTip": "src\\components\\configuracion\\UsuariosTab.vue",
+              "ViewState": "AgIAAGUBAAAAAAAAAAAIwIQBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-11T17:05:34.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LaboratorioTab.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\configuracion\\LaboratorioTab.vue",
+              "RelativeDocumentMoniker": "src\\components\\configuracion\\LaboratorioTab.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\configuracion\\LaboratorioTab.vue",
+              "RelativeToolTip": "src\\components\\configuracion\\LaboratorioTab.vue",
+              "ViewState": "AgIAADMBAAAAAAAAAAAIwFIBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-11T17:05:22.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BackupTab.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\configuracion\\BackupTab.vue",
+              "RelativeDocumentMoniker": "src\\components\\configuracion\\BackupTab.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\configuracion\\BackupTab.vue",
+              "RelativeToolTip": "src\\components\\configuracion\\BackupTab.vue",
+              "ViewState": "AgIAAJMBAAAAAAAAAAAIwLIBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-11T17:05:00.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EditOrderModal.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ordenes\\EditOrderModal.vue",
+              "RelativeDocumentMoniker": "src\\components\\ordenes\\EditOrderModal.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ordenes\\EditOrderModal.vue",
+              "RelativeToolTip": "src\\components\\ordenes\\EditOrderModal.vue",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwCQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-03T14:03:17.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DeleteMaterialModal.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\stock\\DeleteMaterialModal.vue",
+              "RelativeDocumentMoniker": "src\\components\\stock\\DeleteMaterialModal.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\stock\\DeleteMaterialModal.vue",
+              "RelativeToolTip": "src\\components\\stock\\DeleteMaterialModal.vue",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwDwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-03T20:27:56.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeleteModal.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ordenes\\DeleteModal.vue",
+              "RelativeDocumentMoniker": "src\\components\\ordenes\\DeleteModal.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ordenes\\DeleteModal.vue",
+              "RelativeToolTip": "src\\components\\ordenes\\DeleteModal.vue",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-03T15:17:07.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SuscripcionTab.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\configuracion\\SuscripcionTab.vue",
+              "RelativeDocumentMoniker": "src\\components\\configuracion\\SuscripcionTab.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\configuracion\\SuscripcionTab.vue",
+              "RelativeToolTip": "src\\components\\configuracion\\SuscripcionTab.vue",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAIgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-05T20:02:13.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DeleteClientModal.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\clientes\\DeleteClientModal.vue",
+              "RelativeDocumentMoniker": "src\\components\\clientes\\DeleteClientModal.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\clientes\\DeleteClientModal.vue",
+              "RelativeToolTip": "src\\components\\clientes\\DeleteClientModal.vue",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAUwG8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-03T16:42:12.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ClientesView.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\views\\clientes\\ClientesView.vue",
+              "RelativeDocumentMoniker": "src\\views\\clientes\\ClientesView.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\views\\clientes\\ClientesView.vue",
+              "RelativeToolTip": "src\\views\\clientes\\ClientesView.vue",
+              "ViewState": "AgIAAMgBAAAAAAAAAAAcwOcBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-02T16:15:10.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "invoicePdfService.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\services\\invoicePdfService.js",
+              "RelativeDocumentMoniker": "src\\services\\invoicePdfService.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\services\\invoicePdfService.js",
+              "RelativeToolTip": "src\\services\\invoicePdfService.js",
+              "ViewState": "AgIAAHMBAAAAAAAAAAAAwJ4BAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-03T19:58:01.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "InvoiceFormModal.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\contabilidad\\InvoiceFormModal.vue",
+              "RelativeDocumentMoniker": "src\\components\\contabilidad\\InvoiceFormModal.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\contabilidad\\InvoiceFormModal.vue",
+              "RelativeToolTip": "src\\components\\contabilidad\\InvoiceFormModal.vue",
+              "ViewState": "AgIAAFkCAAAAAAAAAAAIwKQCAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-09T18:20:13.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "NewInvoiceModal.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\contabilidad\\NewInvoiceModal.vue",
+              "RelativeDocumentMoniker": "src\\components\\contabilidad\\NewInvoiceModal.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\contabilidad\\NewInvoiceModal.vue",
+              "RelativeToolTip": "src\\components\\contabilidad\\NewInvoiceModal.vue",
+              "ViewState": "AgIAANMBAAAAAAAAAAAqwAECAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-03T18:37:53.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ContabilidadView.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\views\\contabilidad\\ContabilidadView.vue",
+              "RelativeDocumentMoniker": "src\\views\\contabilidad\\ContabilidadView.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\views\\contabilidad\\ContabilidadView.vue",
+              "RelativeToolTip": "src\\views\\contabilidad\\ContabilidadView.vue",
+              "ViewState": "AgIAAC0FAAAAAAAAAAAiwFsFAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-09T16:44:04.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "useInvoices.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\contabilidad\\useInvoices.js",
+              "RelativeDocumentMoniker": "src\\composables\\contabilidad\\useInvoices.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\contabilidad\\useInvoices.js",
+              "RelativeToolTip": "src\\composables\\contabilidad\\useInvoices.js",
+              "ViewState": "AgIAAHgBAAAAAAAAAAAAwJ0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-03T18:34:43.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ViewMaterialModal.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\stock\\ViewMaterialModal.vue",
+              "RelativeDocumentMoniker": "src\\components\\stock\\ViewMaterialModal.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\stock\\ViewMaterialModal.vue",
+              "RelativeToolTip": "src\\components\\stock\\ViewMaterialModal.vue",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAiwP0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-03T20:27:35.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "StockView.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\views\\Stock\\StockView.vue",
+              "RelativeDocumentMoniker": "src\\views\\Stock\\StockView.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\views\\Stock\\StockView.vue",
+              "RelativeToolTip": "src\\views\\Stock\\StockView.vue",
+              "ViewState": "AgIAAHoEAAAAAAAAAAAiwJMEAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-10T16:32:48.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StockCard.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\stock\\StockCard.vue",
+              "RelativeDocumentMoniker": "src\\components\\stock\\StockCard.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\stock\\StockCard.vue",
+              "RelativeToolTip": "src\\components\\stock\\StockCard.vue",
+              "ViewState": "AgIAAEMBAAAAAAAAAAAqwHEBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-03T20:27:26.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "MaterialFormModal.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\stock\\MaterialFormModal.vue",
+              "RelativeDocumentMoniker": "src\\components\\stock\\MaterialFormModal.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\stock\\MaterialFormModal.vue",
+              "RelativeToolTip": "src\\components\\stock\\MaterialFormModal.vue",
+              "ViewState": "AgIAAOUCAAAAAAAAAAAqwBMDAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-03T20:27:46.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "vite.config.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\vite.config.js",
+              "RelativeDocumentMoniker": "vite.config.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\vite.config.js",
+              "RelativeToolTip": "vite.config.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-26T19:45:28.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "tsconfig.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\tsconfig.json",
+              "RelativeDocumentMoniker": "tsconfig.json",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\tsconfig.json",
+              "RelativeToolTip": "tsconfig.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-27T16:54:30.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Button.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ui\\button\\Button.vue",
+              "RelativeDocumentMoniker": "src\\components\\ui\\button\\Button.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ui\\button\\Button.vue",
+              "RelativeToolTip": "src\\components\\ui\\button\\Button.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-10T13:50:32.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\router\\index.js",
+              "RelativeDocumentMoniker": "src\\router\\index.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\router\\index.js",
+              "RelativeToolTip": "src\\router\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-10T13:39:00.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "lucide.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\plugins\\lucide.js",
+              "RelativeDocumentMoniker": "src\\plugins\\lucide.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\plugins\\lucide.js",
+              "RelativeToolTip": "src\\plugins\\lucide.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-10T13:37:24.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "useWhatsApp.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\configuracion\\useWhatsApp.js",
+              "RelativeDocumentMoniker": "src\\composables\\configuracion\\useWhatsApp.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\configuracion\\useWhatsApp.js",
+              "RelativeToolTip": "src\\composables\\configuracion\\useWhatsApp.js",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-05T20:05:09.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "clientService.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\services\\clientService.js",
+              "RelativeDocumentMoniker": "src\\services\\clientService.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\services\\clientService.js",
+              "RelativeToolTip": "src\\services\\clientService.js",
+              "ViewState": "AgIAADwAAAAAAAAAAAAqwFcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-02T13:27:37.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "axios.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\services\\axios.js",
+              "RelativeDocumentMoniker": "src\\services\\axios.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\services\\axios.js",
+              "RelativeToolTip": "src\\services\\axios.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-26T16:09:47.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "useClientHelpers.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\clientes\\useClientHelpers.js",
+              "RelativeDocumentMoniker": "src\\composables\\clientes\\useClientHelpers.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\clientes\\useClientHelpers.js",
+              "RelativeToolTip": "src\\composables\\clientes\\useClientHelpers.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-03T16:37:25.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "OrdenCard.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ordenes\\OrdenCard.vue",
+              "RelativeDocumentMoniker": "src\\components\\ordenes\\OrdenCard.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ordenes\\OrdenCard.vue",
+              "RelativeToolTip": "src\\components\\ordenes\\OrdenCard.vue",
+              "ViewState": "AgIAACcBAAAAAAAAAAAIwHIBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-03T13:39:26.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "auth.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\api\\auth.js",
+              "RelativeDocumentMoniker": "src\\api\\auth.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\api\\auth.js",
+              "RelativeToolTip": "src\\api\\auth.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-01T16:42:37.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "http.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\api\\http.js",
+              "RelativeDocumentMoniker": "src\\api\\http.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\api\\http.js",
+              "RelativeToolTip": "src\\api\\http.js",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-26T19:19:41.184Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "InvoiceService.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\services\\InvoiceService.js",
+              "RelativeDocumentMoniker": "src\\services\\InvoiceService.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\services\\InvoiceService.js",
+              "RelativeToolTip": "src\\services\\InvoiceService.js",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-09T18:21:35.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "OdontogramaModal.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ordenes\\OdontogramaModal.vue",
+              "RelativeDocumentMoniker": "src\\components\\ordenes\\OdontogramaModal.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ordenes\\OdontogramaModal.vue",
+              "RelativeToolTip": "src\\components\\ordenes\\OdontogramaModal.vue",
+              "ViewState": "AgIAANIBAAAAAAAAAADwv/gBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-09T15:43:55.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "EnvioFormModal.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\Envio\\EnvioFormModal.vue",
+              "RelativeDocumentMoniker": "src\\components\\Envio\\EnvioFormModal.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\Envio\\EnvioFormModal.vue",
+              "RelativeToolTip": "src\\components\\Envio\\EnvioFormModal.vue",
+              "ViewState": "AgIAAGACAAAAAAAAAADwv4YCAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-09T15:24:53.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "useEnvio.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\envio\\useEnvio.js",
+              "RelativeDocumentMoniker": "src\\composables\\envio\\useEnvio.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\envio\\useEnvio.js",
+              "RelativeToolTip": "src\\composables\\envio\\useEnvio.js",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAALwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-09T15:10:46.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "EnvioService.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\services\\EnvioService.js",
+              "RelativeDocumentMoniker": "src\\services\\EnvioService.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\services\\EnvioService.js",
+              "RelativeToolTip": "src\\services\\EnvioService.js",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAFAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-09T15:00:25.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ViewClientModal.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\clientes\\ViewClientModal.vue",
+              "RelativeDocumentMoniker": "src\\components\\clientes\\ViewClientModal.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\clientes\\ViewClientModal.vue",
+              "RelativeToolTip": "src\\components\\clientes\\ViewClientModal.vue",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAAB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-03T16:39:51.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EnvioView.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\views\\envio\\EnvioView.vue",
+              "RelativeDocumentMoniker": "src\\views\\envio\\EnvioView.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\views\\envio\\EnvioView.vue",
+              "RelativeToolTip": "src\\views\\envio\\EnvioView.vue",
+              "ViewState": "AgIAAPAEAAAAAAAAAAAAABMFAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-04T18:10:38.08Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AfipTab.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\configuracion\\AfipTab.vue",
+              "RelativeDocumentMoniker": "src\\components\\configuracion\\AfipTab.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\configuracion\\AfipTab.vue",
+              "RelativeToolTip": "src\\components\\configuracion\\AfipTab.vue",
+              "ViewState": "AgIAAHABAAAAAAAAAADwv5YBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-05T20:03:38.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "ViewStaffModal.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\clientes\\ViewStaffModal.vue",
+              "RelativeDocumentMoniker": "src\\components\\clientes\\ViewStaffModal.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\clientes\\ViewStaffModal.vue",
+              "RelativeToolTip": "src\\components\\clientes\\ViewStaffModal.vue",
+              "ViewState": "AgIAADoAAAAAAAAAAADwv2AAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-05T17:40:43.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "StaffFormModal.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\clientes\\StaffFormModal.vue",
+              "RelativeDocumentMoniker": "src\\components\\clientes\\StaffFormModal.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\clientes\\StaffFormModal.vue",
+              "RelativeToolTip": "src\\components\\clientes\\StaffFormModal.vue",
+              "ViewState": "AgIAAGcAAAAAAAAAAADwv40AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-05T17:40:11.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "useStock.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\stock\\useStock.js",
+              "RelativeDocumentMoniker": "src\\composables\\stock\\useStock.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\stock\\useStock.js",
+              "RelativeToolTip": "src\\composables\\stock\\useStock.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-03T20:23:41.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ClientFormModal.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\clientes\\ClientFormModal.vue",
+              "RelativeDocumentMoniker": "src\\components\\clientes\\ClientFormModal.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\clientes\\ClientFormModal.vue",
+              "RelativeToolTip": "src\\components\\clientes\\ClientFormModal.vue",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAEIAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-03T16:41:50.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "QrModal.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ordenes\\QrModal.vue",
+              "RelativeDocumentMoniker": "src\\components\\ordenes\\QrModal.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ordenes\\QrModal.vue",
+              "RelativeToolTip": "src\\components\\ordenes\\QrModal.vue",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-03T13:40:23.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "EtiquetaModal.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ordenes\\EtiquetaModal.vue",
+              "RelativeDocumentMoniker": "src\\components\\ordenes\\EtiquetaModal.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ordenes\\EtiquetaModal.vue",
+              "RelativeToolTip": "src\\components\\ordenes\\EtiquetaModal.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-03T13:40:34.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "DashboardQuickActions.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\DashboardQuickActions.vue",
+              "RelativeDocumentMoniker": "src\\components\\dashboard\\DashboardQuickActions.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\DashboardQuickActions.vue",
+              "RelativeToolTip": "src\\components\\dashboard\\DashboardQuickActions.vue",
+              "ViewState": "AgIAAGQAAAAAAAAAAADwv4oAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-04T16:26:29.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Dashboardpiechart.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\Dashboardpiechart.vue",
+              "RelativeDocumentMoniker": "src\\components\\dashboard\\Dashboardpiechart.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\Dashboardpiechart.vue",
+              "RelativeToolTip": "src\\components\\dashboard\\Dashboardpiechart.vue",
+              "ViewState": "AgIAAJcAAAAAAAAAAAAAAL0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-04T20:37:36.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "Dashboardrevenuechart.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\Dashboardrevenuechart.vue",
+              "RelativeDocumentMoniker": "src\\components\\dashboard\\Dashboardrevenuechart.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\Dashboardrevenuechart.vue",
+              "RelativeToolTip": "src\\components\\dashboard\\Dashboardrevenuechart.vue",
+              "ViewState": "AgIAAIgAAAAAAAAAAADwv64AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-04T20:38:10.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "Nuevo archivo",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\layout\\Nuevo archivo",
+              "RelativeDocumentMoniker": "src\\components\\layout\\Nuevo archivo",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\layout\\Nuevo archivo",
+              "RelativeToolTip": "src\\components\\layout\\Nuevo archivo",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-05T13:38:05.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "EnvioCard.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\Envio\\EnvioCard.vue",
+              "RelativeDocumentMoniker": "src\\components\\Envio\\EnvioCard.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\Envio\\EnvioCard.vue",
+              "RelativeToolTip": "src\\components\\Envio\\EnvioCard.vue",
+              "ViewState": "AgIAAOgAAAAAAAAAAADwvw4BAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-04T18:09:32.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "EnvioViewModal.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\Envio\\EnvioViewModal.vue",
+              "RelativeDocumentMoniker": "src\\components\\Envio\\EnvioViewModal.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\Envio\\EnvioViewModal.vue",
+              "RelativeToolTip": "src\\components\\Envio\\EnvioViewModal.vue",
+              "ViewState": "AgIAAHsBAAAAAAAAAAAAAKEBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-04T18:09:51.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "DashboardSystemStatus.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\DashboardSystemStatus.vue",
+              "RelativeDocumentMoniker": "src\\components\\dashboard\\DashboardSystemStatus.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\DashboardSystemStatus.vue",
+              "RelativeToolTip": "src\\components\\dashboard\\DashboardSystemStatus.vue",
+              "ViewState": "AgIAADgAAAAAAAAAAADwv14AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-04T16:26:46.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Nuevo archivo",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\Nuevo archivo",
+              "RelativeDocumentMoniker": "src\\components\\dashboard\\Nuevo archivo",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\Nuevo archivo",
+              "RelativeToolTip": "src\\components\\dashboard\\Nuevo archivo",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-04T20:36:40.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "EnvioFilters.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\Envio\\EnvioFilters.vue",
+              "RelativeDocumentMoniker": "src\\components\\Envio\\EnvioFilters.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\Envio\\EnvioFilters.vue",
+              "RelativeToolTip": "src\\components\\Envio\\EnvioFilters.vue",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAHgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-04T18:09:24.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "EnvioStats.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\Envio\\EnvioStats.vue",
+              "RelativeDocumentMoniker": "src\\components\\Envio\\EnvioStats.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\Envio\\EnvioStats.vue",
+              "RelativeToolTip": "src\\components\\Envio\\EnvioStats.vue",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAAAJMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-04T18:08:58.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "DashboardOrders.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\DashboardOrders.vue",
+              "RelativeDocumentMoniker": "src\\components\\dashboard\\DashboardOrders.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\DashboardOrders.vue",
+              "RelativeToolTip": "src\\components\\dashboard\\DashboardOrders.vue",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAAAPEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-04T16:26:17.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "useEnvioHelpers.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\envio\\useEnvioHelpers.js",
+              "RelativeDocumentMoniker": "src\\composables\\envio\\useEnvioHelpers.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\envio\\useEnvioHelpers.js",
+              "RelativeToolTip": "src\\composables\\envio\\useEnvioHelpers.js",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAG0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-04T18:07:09.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "DashboardStats.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\DashboardStats.vue",
+              "RelativeDocumentMoniker": "src\\components\\dashboard\\DashboardStats.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\DashboardStats.vue",
+              "RelativeToolTip": "src\\components\\dashboard\\DashboardStats.vue",
+              "ViewState": "AgIAAKMAAAAAAAAAAADwv8kAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-04T16:26:07.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "DashboardHeader.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\DashboardHeader.vue",
+              "RelativeDocumentMoniker": "src\\components\\dashboard\\DashboardHeader.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\DashboardHeader.vue",
+              "RelativeToolTip": "src\\components\\dashboard\\DashboardHeader.vue",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-04T16:25:58.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "DashboardSidebar.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\DashboardSidebar.vue",
+              "RelativeDocumentMoniker": "src\\components\\dashboard\\DashboardSidebar.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\dashboard\\DashboardSidebar.vue",
+              "RelativeToolTip": "src\\components\\dashboard\\DashboardSidebar.vue",
+              "ViewState": "AgIAAJoAAAAAAAAAAADwv8AAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-04T16:25:44.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Stockservice.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\services\\Stockservice.js",
+              "RelativeDocumentMoniker": "src\\services\\Stockservice.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\services\\Stockservice.js",
+              "RelativeToolTip": "src\\services\\Stockservice.js",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAiwD4AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-04T15:31:29.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "useStockHelpers.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\stock\\useStockHelpers.js",
+              "RelativeDocumentMoniker": "src\\composables\\stock\\useStockHelpers.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\stock\\useStockHelpers.js",
+              "RelativeToolTip": "src\\composables\\stock\\useStockHelpers.js",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAiwIMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-03T20:25:00.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "StockMovementModal.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\stock\\StockMovementModal.vue",
+              "RelativeDocumentMoniker": "src\\components\\stock\\StockMovementModal.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\stock\\StockMovementModal.vue",
+              "RelativeToolTip": "src\\components\\stock\\StockMovementModal.vue",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAmwOUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-03T20:28:09.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "StockFilters.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\stock\\StockFilters.vue",
+              "RelativeDocumentMoniker": "src\\components\\stock\\StockFilters.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\stock\\StockFilters.vue",
+              "RelativeToolTip": "src\\components\\stock\\StockFilters.vue",
+              "ViewState": "AgIAADYAAAAAAAAAAAAiwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-03T20:27:16.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "StockStats.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\stock\\StockStats.vue",
+              "RelativeDocumentMoniker": "src\\components\\stock\\StockStats.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\stock\\StockStats.vue",
+              "RelativeToolTip": "src\\components\\stock\\StockStats.vue",
+              "ViewState": "AgIAADUAAAAAAAAAAAAiwEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-03T20:27:07.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "InvoiceStats.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\contabilidad\\InvoiceStats.vue",
+              "RelativeDocumentMoniker": "src\\components\\contabilidad\\InvoiceStats.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\contabilidad\\InvoiceStats.vue",
+              "RelativeToolTip": "src\\components\\contabilidad\\InvoiceStats.vue",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAD8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-03T18:36:41.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "ViewInvoiceModal.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\contabilidad\\ViewInvoiceModal.vue",
+              "RelativeDocumentMoniker": "src\\components\\contabilidad\\ViewInvoiceModal.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\contabilidad\\ViewInvoiceModal.vue",
+              "RelativeToolTip": "src\\components\\contabilidad\\ViewInvoiceModal.vue",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAmwH0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-03T18:37:39.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "InvoiceCard.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\contabilidad\\InvoiceCard.vue",
+              "RelativeDocumentMoniker": "src\\components\\contabilidad\\InvoiceCard.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\contabilidad\\InvoiceCard.vue",
+              "RelativeToolTip": "src\\components\\contabilidad\\InvoiceCard.vue",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAiwHcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-03T18:37:27.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "InvoiceFilters.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\contabilidad\\InvoiceFilters.vue",
+              "RelativeDocumentMoniker": "src\\components\\contabilidad\\InvoiceFilters.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\contabilidad\\InvoiceFilters.vue",
+              "RelativeToolTip": "src\\components\\contabilidad\\InvoiceFilters.vue",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAkwD0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-03T18:37:19.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "InvoiceCharts.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\contabilidad\\InvoiceCharts.vue",
+              "RelativeDocumentMoniker": "src\\components\\contabilidad\\InvoiceCharts.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\contabilidad\\InvoiceCharts.vue",
+              "RelativeToolTip": "src\\components\\contabilidad\\InvoiceCharts.vue",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAiwM4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-03T18:37:11.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "useInvoiceHelpers.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\contabilidad\\useInvoiceHelpers.js",
+              "RelativeDocumentMoniker": "src\\composables\\contabilidad\\useInvoiceHelpers.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\contabilidad\\useInvoiceHelpers.js",
+              "RelativeToolTip": "src\\composables\\contabilidad\\useInvoiceHelpers.js",
+              "ViewState": "AgIAADEAAAAAAAAAAAAiwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-03T18:34:57.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ClientCard.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\clientes\\ClientCard.vue",
+              "RelativeDocumentMoniker": "src\\components\\clientes\\ClientCard.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\clientes\\ClientCard.vue",
+              "RelativeToolTip": "src\\components\\clientes\\ClientCard.vue",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAmwGUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-03T16:17:41.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "useOrderHelpers.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\ordenes\\useOrderHelpers.js",
+              "RelativeDocumentMoniker": "src\\composables\\ordenes\\useOrderHelpers.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\composables\\ordenes\\useOrderHelpers.js",
+              "RelativeToolTip": "src\\composables\\ordenes\\useOrderHelpers.js",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwFkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-12-03T13:36:53.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "ClientStats.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\clientes\\ClientStats.vue",
+              "RelativeDocumentMoniker": "src\\components\\clientes\\ClientStats.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\clientes\\ClientStats.vue",
+              "RelativeToolTip": "src\\components\\clientes\\ClientStats.vue",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwDkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-03T16:38:30.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "ClientFilters.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\clientes\\ClientFilters.vue",
+              "RelativeDocumentMoniker": "src\\components\\clientes\\ClientFilters.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\clientes\\ClientFilters.vue",
+              "RelativeToolTip": "src\\components\\clientes\\ClientFilters.vue",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-03T16:38:55.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "OrderFilters.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ordenes\\OrderFilters.vue",
+              "RelativeDocumentMoniker": "src\\components\\ordenes\\OrderFilters.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ordenes\\OrderFilters.vue",
+              "RelativeToolTip": "src\\components\\ordenes\\OrderFilters.vue",
+              "ViewState": "AgIAABgAAAAAAAAAAADwvy8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-03T13:39:15.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "OrderStats.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ordenes\\OrderStats.vue",
+              "RelativeDocumentMoniker": "src\\components\\ordenes\\OrderStats.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\ordenes\\OrderStats.vue",
+              "RelativeToolTip": "src\\components\\ordenes\\OrderStats.vue",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvyIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-12-03T13:38:52.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "authService.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\services\\authService.js",
+              "RelativeDocumentMoniker": "src\\services\\authService.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\services\\authService.js",
+              "RelativeToolTip": "src\\services\\authService.js",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAiwPYAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-25T20:36:31.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-26T19:47:06.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\package-lock.json",
+              "RelativeDocumentMoniker": "package-lock.json",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\package-lock.json",
+              "RelativeToolTip": "package-lock.json",
+              "ViewState": "AgIAAKoBAAAAAAAAAAAAADoAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-27T16:53:02.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\main.js",
+              "RelativeDocumentMoniker": "src\\main.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\main.js",
+              "RelativeToolTip": "src\\main.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-26T19:17:35.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "BackendConnectionTest.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\BackendConnectionTest.vue",
+              "RelativeDocumentMoniker": "src\\components\\BackendConnectionTest.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\components\\BackendConnectionTest.vue",
+              "RelativeToolTip": "src\\components\\BackendConnectionTest.vue",
+              "ViewState": "AgIAACEBAAAAAAAAAAAAAHgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-11-25T20:46:56.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\.env",
+              "RelativeDocumentMoniker": ".env",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\.env",
+              "RelativeToolTip": ".env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-27T20:42:11.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "postcss.config.cjs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\postcss.config.cjs",
+              "RelativeDocumentMoniker": "postcss.config.cjs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\postcss.config.cjs",
+              "RelativeToolTip": "postcss.config.cjs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-27T19:35:39.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "utils.ts",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\lib\\utils.ts",
+              "RelativeDocumentMoniker": "src\\lib\\utils.ts",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\lib\\utils.ts",
+              "RelativeToolTip": "src\\lib\\utils.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-11-27T18:14:51.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "App.vue",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\App.vue",
+              "RelativeDocumentMoniker": "src\\App.vue",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\App.vue",
+              "RelativeToolTip": "src\\App.vue",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003491|",
+              "WhenOpened": "2025-11-27T14:22:39.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "tsconfig.node.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\tsconfig.node.json",
+              "RelativeDocumentMoniker": "tsconfig.node.json",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\tsconfig.node.json",
+              "RelativeToolTip": "tsconfig.node.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-27T16:55:02.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "auth.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\stores\\auth.js",
+              "RelativeDocumentMoniker": "src\\stores\\auth.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\stores\\auth.js",
+              "RelativeToolTip": "src\\stores\\auth.js",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAuwJEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-26T16:11:27.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 101,
+              "Title": "arbol_proyecto.txt",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\arbol_proyecto.txt",
+              "RelativeDocumentMoniker": "arbol_proyecto.txt",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\arbol_proyecto.txt",
+              "RelativeToolTip": "arbol_proyecto.txt",
+              "ViewState": "AgIAABACAAAAAAAAAAAAAPsBAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-26T20:25:20.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 102,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-26T19:41:54.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 103,
+              "Title": "stores.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\stores\\stores.js",
+              "RelativeDocumentMoniker": "src\\stores\\stores.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\stores\\stores.js",
+              "RelativeToolTip": "src\\stores\\stores.js",
+              "ViewState": "AgIAADoAAAAAAAAAAAAIwEcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-26T19:41:02.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 100,
+              "Title": "ordenes.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\stores\\ordenes.js",
+              "RelativeDocumentMoniker": "src\\stores\\ordenes.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\stores\\ordenes.js",
+              "RelativeToolTip": "src\\stores\\ordenes.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-26T20:37:33.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 99,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\stores\\index.js",
+              "RelativeDocumentMoniker": "src\\stores\\index.js",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\Laboratorio-Software\\Laboratorio\\frontend\\src\\stores\\index.js",
+              "RelativeToolTip": "src\\stores\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-26T20:37:35.24Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
