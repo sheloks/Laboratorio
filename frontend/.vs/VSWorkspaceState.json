@@ -11,6 +11,6 @@
     "\\src\\views\\contabilidad",
     "\\vscode-config"
   ],
-  "SelectedNode": "\\src\\components\\dashboard\\Dashboardorderslist.vue",
+  "SelectedNode": "\\src\\components\\dashboard\\DashboardPieChart.vue",
   "PreviewInSolutionExplorer": false
 }
