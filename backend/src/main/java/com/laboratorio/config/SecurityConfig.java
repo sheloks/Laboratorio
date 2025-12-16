@@ -33,9 +33,7 @@ public class SecurityConfig {
     private final JwtService jwtService;
     private final UsuarioService usuarioService;
 
-    private String allowedOrigins = System.getenv("CORS_ORIGINS") != null
-            ? System.getenv("CORS_ORIGINS")
-            : "http://localhost:3000,http://localhost:3081,http://localhost:5173";
+    private String allowedOrigins = "https://laboratoriodental.vercel.app,http://localhost:3000,http://localhost:5173";
 
     @Bean
     public SecurityFilterChain filterChain(HttpSecurity http) throws Exception {
