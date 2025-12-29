@@ -33,7 +33,8 @@ public class SecurityConfig {
     private final JwtService jwtService;
     private final UsuarioService usuarioService;
 
-    private String allowedOrigins = "https://laboratoriodental.vercel.app,http://localhost:3000,http://localhost:5173";
+    @Value("${cors.allowed-origins:https://laboratoriodental.vercel.app,http://localhost:3000,http://localhost:5173}")
+private String allowedOrigins;
 
     @Bean
     public SecurityFilterChain filterChain(HttpSecurity http) throws Exception {
